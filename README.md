@@ -1,1 +1,1 @@
-# rsschool-cv
+    https://sonflik.github.io/rsschool-cv/cv
